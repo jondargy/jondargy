@@ -1,0 +1,11 @@
+{
+  "name": "API Playground",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "postCreateCommand": "pip install -r api-playground/requirements.txt",
+  "forwardPorts": [8000, 8001],
+  "customizations": {
+    "codespaces": {
+      "openFiles": ["api-playground/README.md"]
+    }
+  }
+}
