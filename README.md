@@ -23,8 +23,8 @@ one that's 400 feet up.
 A two-model AI operations system that runs the boring parts of owning two small businesses:
 
 - **Claude** is chief of staff. **Codex** builds and reviews. Plain Python does the repetitive work underneath.
-- It tracks every legal and tax deadline from cited rules, sorts the books, and writes the morning brief.
-- It refuses to commit anything that looks like a card number. It has already caught a few.
+- It tracks the legal and tax deadlines it's configured for, each with a cited source. It also sorts the books and writes the morning brief.
+- It blocks anything that looks like a card or account number from ever being committed.
 - Rule of thumb: **code for repetition, AI for exceptions, a human for anything that costs money.**
 
 The repo is private because it runs real businesses. The lessons will show up here and on
