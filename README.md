@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F75C03&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Jon+%F0%9F%91%8B;Creative+technologist;AI+%2B+AR+for+real+teams;Filmmaker+%26+FAA+Part+107+pilot;Fluent+in+Python+and+habanero+%F0%9F%8C%B6%EF%B8%8F" alt="Hi, I'm Jon: creative technologist, AI + AR for real teams, filmmaker and FAA Part 107 pilot, fluent in Python and habanero" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F75C03&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Jon+%F0%9F%91%8B;Creative+technologist;AI+%2B+AR+for+real+teams;Filmmaker+%26+FAA+Part+107+pilot;400+ft+up+%C2%B7+100%2C000+Scoville+%F0%9F%8C%B6%EF%B8%8F" alt="Hi, I'm Jon: creative technologist, AI + AR for real teams, filmmaker and FAA Part 107 pilot, 400 ft up and 100,000 Scoville" />
 
 **Creative Technologist · AI Expert · Storyteller**
 
@@ -22,7 +22,7 @@ one that's 400 feet up.
 
 A two-model AI operations system that runs the boring parts of owning two small businesses:
 
-- **Claude** is chief of staff. **Codex** builds and reviews. Plain Python does the repetitive work underneath.
+- I direct it; **Claude** is chief of staff, **Codex** builds and reviews, and small scripts do the repetitive work.
 - It tracks the legal and tax deadlines it's configured for, each with a cited source. It also sorts the books and writes the morning brief.
 - Before anything is committed, it scans for patterns that look like card or account numbers and blocks them.
 - Rule of thumb: **code for repetition, AI for exceptions, a human for anything that costs money.**
@@ -37,11 +37,9 @@ The repo is private because it runs real businesses.
 ### 🧰 Toolbox
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/REST_APIs-0A0A0A?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
   <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
