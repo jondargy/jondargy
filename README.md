@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F75C03&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Jon+%F0%9F%91%8B;Creative+technologist;AI+%2B+AR+for+real+teams;Filmmaker+%26+FAA+Part+107+pilot;Hot+sauce+researcher+%F0%9F%8C%B6%EF%B8%8F" alt="Hi, I'm Jon: creative technologist, AI + AR for real teams, filmmaker and FAA Part 107 pilot, hot sauce researcher" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F75C03&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Jon+%F0%9F%91%8B;Creative+technologist;AI+%2B+AR+for+real+teams;Filmmaker+%26+FAA+Part+107+pilot;Fluent+in+Python+and+habanero+%F0%9F%8C%B6%EF%B8%8F" alt="Hi, I'm Jon: creative technologist, AI + AR for real teams, filmmaker and FAA Part 107 pilot, fluent in Python and habanero" />
 
 **Creative Technologist · AI Expert · Storyteller**
 
