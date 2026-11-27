@@ -24,11 +24,10 @@ A two-model AI operations system that runs the boring parts of owning two small 
 
 - **Claude** is chief of staff. **Codex** builds and reviews. Plain Python does the repetitive work underneath.
 - It tracks the legal and tax deadlines it's configured for, each with a cited source. It also sorts the books and writes the morning brief.
-- It blocks anything that looks like a card or account number from ever being committed.
+- Before anything is committed, it scans for patterns that look like card or account numbers and blocks them.
 - Rule of thumb: **code for repetition, AI for exceptions, a human for anything that costs money.**
 
-The repo is private because it runs real businesses. The lessons will show up here and on
-aigenerationpro.com.
+The repo is private because it runs real businesses. The lessons will show up here.
 
 ### 🧪 Here on GitHub
 
@@ -48,10 +47,6 @@ aigenerationpro.com.
   <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
   <img src="https://img.shields.io/badge/FAA_Part_107-1F4E79?style=flat-square&logo=dji&logoColor=white" alt="FAA Part 107" />
 </p>
-
-### 📫 Find me
-
-**jondargy.com**, **aigenerationpro.com** and **beautifulthingsstudios.com**: all three launch in December 2026.
 
 ---
 
