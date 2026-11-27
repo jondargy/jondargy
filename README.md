@@ -27,7 +27,7 @@ A two-model AI operations system that runs the boring parts of owning two small 
 - Before anything is committed, it scans for patterns that look like card or account numbers and blocks them.
 - Rule of thumb: **code for repetition, AI for exceptions, a human for anything that costs money.**
 
-The repo is private because it runs real businesses. The lessons will show up here.
+The repo is private because it runs real businesses.
 
 ### 🧪 Here on GitHub
 
